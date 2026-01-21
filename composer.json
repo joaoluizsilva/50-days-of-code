@@ -1,0 +1,18 @@
+{
+    "name": "joaoluiz/50-days-of-code",
+    "description": "project",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Joaoluiz\\50DaysOfCode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MIT"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
